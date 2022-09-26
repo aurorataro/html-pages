@@ -1,0 +1,45 @@
+html {
+    font-family: 'Noto Sans Mono', monospace;
+    font-size: 24px ;
+    color: aliceblue;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    padding: 50px 50px 50px 50px;
+    background: url(/images/bg.jpg) rgba(0, 0, 0, 0.459) no-repeat center center;
+    background-blend-mode: multiply;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.sidebar {
+    flex: 1 1 -10px;
+    margin-right: 30px;
+}
+
+.service, .status, .title {
+    text-align: center;
+}
+
+.mainpage {
+    flex: 1 1 10px;
+    margin-left: 30px;
+}
+
+.sidebar, .mainpage {
+    color: black;;
+    background-color: rgba(255, 255, 255, 0.658);
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
