@@ -8,4 +8,4 @@
 
 FFXIV 录像请点击 [这里](/Onedrive/Media/Record/OBS)
 
-![](https://count.getloli.com/get/@taro123?theme=asoul)
+![taro123](https://count.getloli.com/get/@taro123?theme=asoul)
