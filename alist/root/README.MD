@@ -9,6 +9,5 @@
 
 ### PINNED
 - [OBS录像](/Onedrive/Media/Record/OBS)
-- abc
 
 ![taro123](https://count.getloli.com/get/@taro123?theme=asoul)
