@@ -2,10 +2,13 @@
 
 📂 | 💾 | 🌍 | 🛡️
 :-: | :-: | :-: | :-: 
-[TaroServer-HK](/TaroServer-HK) | 腾讯云 Lighthouse 香港 | CloudFlare代理 | ⭕
-[aDrive](/aDrive) | 阿里网盘 | Direct | 🔒
-[Onedrive](/Onedrive) | Onedrive Sharepoint | Direct | ⭕
+[node-shanghai](/node-shanghai) | 腾讯云 Lighthouse 上海 | Direct 连接 | ⭕
+[node-hongkong](/node-hongkong) | 腾讯云 Lighthouse 香港 | Direct 连接 | ⭕
+[aDrive](/aDrive) | 阿里网盘 | Direct 连接 | 🔒
+[Onedrive](/Onedrive) | Onedrive Sharepoint | CloudFlare 代理 | ⭕
 
-FFXIV 录像请点击 [这里](/Onedrive/Media/Record/OBS)
+### PINNED
+- [FFXIV 录像](/Onedrive/Media/Record/OBS)
+- abc
 
 ![taro123](https://count.getloli.com/get/@taro123?theme=asoul)
