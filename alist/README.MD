@@ -8,7 +8,7 @@
 [Onedrive](/Onedrive) | Onedrive Sharepoint | CloudFlare 代理 | ⭕
 
 ### PINNED
-- [FFXIV 录像](/Onedrive/Media/Record/OBS)
+- [OBS录像](/Onedrive/Media/Record/OBS)
 - abc
 
 ![taro123](https://count.getloli.com/get/@taro123?theme=asoul)
