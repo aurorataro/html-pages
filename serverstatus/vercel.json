@@ -1,0 +1,20 @@
+{
+    "routes": [
+      {
+        "src": "/json/stats.json",
+        "dest": "http://42.192.209.201:16789/json/stats.json"
+      },
+      {
+        "src": "/detail",
+        "dest": "http://42.192.209.201:16789/detail"
+      },
+      {
+        "src": "/map",
+        "dest": "http://42.192.209.201:16789/map"
+      },
+      {
+        "src": "/i",
+        "dest": "http://42.192.209.201:16789/i"
+      }
+    ]
+  }
