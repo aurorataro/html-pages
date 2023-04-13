@@ -10,3 +10,5 @@
 
 ### PINNED
 - [OBS录像](/Onedrive/Media/Record/OBS)
+- [FF14相关](/Onedrive/Personal/Sync/FinalFantansy)
+- [三体](/aDrive/三体.4K.高码率)
