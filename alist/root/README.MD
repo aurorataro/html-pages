@@ -2,6 +2,8 @@
 
 ![Owner-en](https://img.shields.io/badge/Owner-Aurorataro-brightgreen)
 ![Owner-cn](https://img.shields.io/badge/same_as-流云心Aurora-brightgreen)
+
+![NET](https://img.shields.io/badge/Host_by-tarocloud.net-orange)
 ![CDN](https://img.shields.io/badge/CDN-Cloudflare-orange)
 
 ### 🌲Directory Tree
