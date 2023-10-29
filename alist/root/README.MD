@@ -16,5 +16,5 @@
 [OBS-local](/OBS-local)| 本地NAS的OBS录像文件 | FRP | ⭕
 
 ### 📌PINNED
-- [‼️【每周更新】OBS录像-冷备份](/Onedrive/TaroNAS/OBS)
-- []
+- [‼️【冷备】OBS录像 on Onedrive](/Onedrive/TaroNAS/OBS)
+- [‼️【实时】本地OBS录像 连接较慢](/OBS-local)
