@@ -10,12 +10,11 @@
 
 📂 | 💾 | 🌍 | 🛡️
 :-: | :-: | :-: | :-: 
-[node-shanghai](/node-shanghai) | 腾讯云 Lighthouse 上海 | Direct 直连 | ⭕
-[node-hongkong](/node-hongkong) | 腾讯云 Lighthouse 香港 | Direct 直连 | ⭕
 [oss-tokyo](/node-tokyo)| 阿里云 OSS 东京 | Cloudflare CDN | 🔒
 [aDrive](/aDrive) | 阿里网盘 | Direct 直连 | ⭕
 [Onedrive](/Onedrive) | Onedrive | 本地代理 | ⭕
+[OBS-local](/OBS-local)| 本地NAS的OBS录像文件 | FRP | ⭕
 
 ### 📌PINNED
-- [OBS录像](/Onedrive/TaroNAS/OBS)
-- [FF14同步](/Onedrive/Personal/Sync/FinalFantansy)
+- [‼️【每周更新】OBS录像-冷备份](/Onedrive/TaroNAS/OBS)
+- []
