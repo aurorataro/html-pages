@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <meta charset="utf-8">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap" rel="stylesheet">
+        <link href="styles/style.css" rel="stylesheet">
+        <title>TaroCloud Network
+        </title>
+        <meta name="description" content="Aurorataro's CLoud Service">
+        <meta name="keywords" content="Network, Cloud">
+    </head>
+    
+    <body>
+        <h1 class="h1">TaroCloud Network</h1>
+        <div class="main">
+            <div class="sidebar">
+
+                <div class="title">
+                    <h1>Service List</h1>
+                </div>
+
+                <div class="service">
+                    <p>Recursive DNS-sha</p>
+                    <p>Recursive DNS-hkg</p>
+                    <p><a href="https://files.tarocloud.net">TaroCloud Folders</a></p>
+                </div>
+
+                <div class="status">
+                    <h2><a href="https://stats.uptimerobot.com/YXRx9I3YGy">Service Status</a> </h2>
+                </div>
+
+            </div>    
+
+        <div class="mainpage">
+
+            <p>Tarocloud is composed of multiple web services created by <a href="https://auro.ink" title="Aurorataro's Pages" target="_blank">Aurorataro</a></p>
+            <p>The services provided by Tarocloud include: </p>
+            <ul>
+                <li>Recursive Domain Name System Server (Shanghai, Hong Kong)</li>
+                <li>Webhook Message Foward to Nonebot2</li>
+                <li>P2P Game Transfer Node</li>
+                <li><a href="https://files.tarocloud.net">TaroCloud Folders</a></li>
+                <li>TaroCloud Proxy(TODO)</li>
+            </ul>
+            <p>Recursive DNS is in internal testing, if you need to be whitelisted, please contact <a href="mailto:aurorataro@foxmail.com">aurorataro@foxmail.com</a></p>
+        </div>
+
+            
+    </body>
+</html>
