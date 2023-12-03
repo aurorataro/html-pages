@@ -1,4 +1,4 @@
-# ☁️Tarocloud Files
+# ☁️Tarocloud 文件站
 
 ![Owner-en](https://img.shields.io/badge/Owner-Aurorataro-brightgreen)
 ![Owner-cn](https://img.shields.io/badge/same_as-流云心Aurora-brightgreen)
@@ -10,11 +10,6 @@
 
 📂 | 💾 | 🌍 | 🛡️
 :-: | :-: | :-: | :-: 
-[oss-tokyo](/node-tokyo)| 阿里云 OSS 东京 | Cloudflare CDN | 🔒
-[aDrive](/aDrive) | 阿里网盘 | Direct 直连 | ⭕
-[Onedrive](/Onedrive) | Onedrive | 本地代理 | ⭕
-[OBS-local](/OBS-local)| 本地NAS的OBS录像文件 | FRP | ⭕
-
-### 📌PINNED
-- [‼️【冷备】OBS录像 on Onedrive](/Onedrive/TaroNAS/OBS)
-- [‼️【实时】本地OBS录像 连接较慢](/OBS-local)
+[AliyunDrive](/AliyunDrive) | 阿里网-分享 | 302 重定向 | ⭕
+[Ali-OSS-Tokyo](/Ali-OSS-Tokyo)| 阿里云-东京OSS | CDN | 🔒
+[Onedrive](/Onedrive) | Onedrive | 302 重定向 | 🔒
